@@ -1,0 +1,4 @@
+
+(venv) (base) ➜  demoflask30pythonne git:(master) grv
+heroku	https://git.heroku.com/demoflask30pythonne.git (fetch)
+heroku	https://git.heroku.com/demoflask30pythonne.git (push)
